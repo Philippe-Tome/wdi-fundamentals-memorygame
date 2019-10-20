@@ -29,3 +29,9 @@ var cardsInPlay = [];
 function flipCard(cardId) {
 	console.log("User flipped " + cards[cardId].rank);
 }
+
+function createBoard () {
+	for (var i = 0; i < cards.length; i++) {
+    
+}
+}
